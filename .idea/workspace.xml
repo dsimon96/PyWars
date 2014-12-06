@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1665a526-bde9-4903-8b7c-a62e006d1d19" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/BlueAPC.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/BlueArtillery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backgrounds/BlueBackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/BlueCity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/BlueFactory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/BlueHQ.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/BlueInfantry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/BlueLgTank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/BlueRocketInf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/BlueSmTank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/BridgeHoriz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/BridgeVert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/EmptyCity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/EmptyFactory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/Forest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/Grass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/GreenAPC.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/GreenArtillery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backgrounds/GreenBackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/GreenCity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/GreenFactory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/GreenHQ.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/GreenInfantry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/GreenLgTank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/GreenRocketInf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/GreenSmTank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/Mountain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/RedAPC.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/RedArtillery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backgrounds/RedBackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RedCity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RedFactory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RedHQ.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/RedInfantry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/RedLgTank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/RedRocketInf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/RedSmTank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RiverCorner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RiverCorner2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RiverCorner3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RiverCorner4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RiverHoriz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RiverInter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RiverVert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RoadCorner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RoadCorner2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RoadCorner3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RoadCorner4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RoadHoriz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RoadInter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RoadT1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RoadT2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RoadT3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RoadT4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/RoadVert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterBorder1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterBorder2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterBorder3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterBorder4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterCorner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterCorner2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterCorner3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterCorner4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterHoriz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterIsolated.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterOpen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterU1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterU2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterU3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterU4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/WaterVert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/YellowAPC.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/YellowArtillery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backgrounds/YellowBackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/YellowCity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/YellowFactory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles/YellowHQ.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/YellowInfantry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/YellowLgTank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/YellowRocketInf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units/YellowSmTank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/battle.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/editor.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audio/mainMenu.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menuArt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Credits.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/PyWars.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/battle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maps/demo map.tpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maps/isthmus.tpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mainMenu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/map.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mapEditor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maps/mosh pit.tpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pygameBaseClass.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maps/testmap.tpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/units.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maps/vortex.tpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\David\OneDrive\Documents\Schoolwork\F14\15-112\Term_Project\Advance Wars\battle.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\David\OneDrive\Documents\Schoolwork\F14\15-112\Term_Project\Advance Wars\mainMenu.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\David\OneDrive\Documents\Schoolwork\F14\15-112\Term_Project\Advance Wars\map.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\David\OneDrive\Documents\Schoolwork\F14\15-112\Term_Project\Advance Wars\mapEditor.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\David\OneDrive\Documents\Schoolwork\F14\15-112\Term_Project\Advance Wars\pygameBaseClass.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\David\OneDrive\Documents\Schoolwork\F14\15-112\Term_Project\Advance Wars\units.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/../.idea/codeStyleSettings.xml" />
+    </list>
+    <ignored path="PyWars.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PyWars" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="883" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyWars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyWars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyWars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1665a526-bde9-4903-8b7c-a62e006d1d19" name="Default" comment="" />
+      <created>1417897194982</created>
+      <option name="number" value="Default" />
+      <updated>1417897194982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="20" width="1400" height="883" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
