@@ -2,7 +2,7 @@ PyWars
 by David Simon
 December 2014
 
-Sprites, Artwork, and Music Borrowed (lovingly) from the Advance Wars, by Intelligent Systems and Nintendo.
+Sprites, Artwork, and Music Borrowed (lovingly) from the Advance Wars series, by Intelligent Systems and Nintendo.
 
 Special thanks to:
 Sunny Gakhar, Varun Ramesh, Chris Smith, and Vivek Shankar for user testing
